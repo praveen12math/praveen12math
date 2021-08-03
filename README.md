@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen12math)](https://github.com/praveen12math/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/praveen12math/github-readme-stats)
 
 <!--
 **praveen12math/praveen12math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
