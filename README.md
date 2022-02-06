@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=praveen12math&color=green)
+
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=praveen12math&color=green)
 
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen12math&count_private=true)
 
